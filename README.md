@@ -1,6 +1,6 @@
 ### Hi there, I'm Grégoire - aka Tuvedunyel 👋
 
-### Je travail actuellement chez [website] !
+### Je travail actuellement chez [BTG] Communication !
 
 - 🔭 I’m currently working on some projects
 - 🌱 I’m currently learning Javascript with VueJS and PHP with Symfony
@@ -31,6 +31,6 @@
 <br />
 <br />
 
-[website]: https://www.btg-communication.fr/
+[btg]: https://www.btg-communication.fr/
 [github]: https://github.com/Tuvedunyel
 [linkedin]: https://www.linkedin.com/in/gr%C3%A9goire-montoya-5a43941b9/
