@@ -1,16 +1,10 @@
 ### Hi there, I'm Grégoire - aka Tuvedunyel 👋
 
-### Je travail actuellement chez [BTG] Communication !
+### Je travail actuellement chez [BTG] !
 
 - 🔭 I’m currently working on some projects
 - 🌱 I’m currently learning Javascript with VueJS and PHP with Symfony
 - 👯 I’m looking to collaborate with other web developpers
-
-### Connect with me :
-
-[<img align="left" alt="Tuvedunyel | github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin/svg" />][github]
-
-[<img align="left" alt="Tuvedunyel | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin/svg" />][linkedin]
 
 <br />
 
@@ -25,7 +19,7 @@
 [<img align="left" alt="vueJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">]
 [<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">]
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">]
-[<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png">]
+[<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">]
 [<img align="left" alt="Terminal command" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">]
 
 <br />
