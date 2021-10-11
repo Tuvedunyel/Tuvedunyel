@@ -1,6 +1,6 @@
 ### Hi there, I'm Grégoire - aka Tuvedunyel 👋
 
-### Je travail actuellement chez [BTG] !
+### I actually work at [BTG], a french communication company !
 
 - 🔭 I’m currently working on some projects
 - 🌱 I’m currently learning Javascript with VueJS and PHP with Symfony
